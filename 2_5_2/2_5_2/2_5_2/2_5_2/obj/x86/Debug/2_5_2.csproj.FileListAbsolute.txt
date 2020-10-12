@@ -1,0 +1,10 @@
+D:\vs2010\作品\2_5_2\2_5_2\bin\Debug\2_5_2.exe
+D:\vs2010\作品\2_5_2\2_5_2\bin\Debug\2_5_2.pdb
+D:\vs2010\作品\2_5_2\2_5_2\obj\x86\Debug\2_5_2.exe
+D:\vs2010\作品\2_5_2\2_5_2\obj\x86\Debug\2_5_2.pdb
+D:\vs2010\作品\2_5_2\2_5_2\obj\x86\Debug\2_5_2.csprojResolveAssemblyReference.cache
+C:\Users\13545\Desktop\2_5_2\2_5_2\2_5_2\obj\x86\Debug\2_5_2.exe
+C:\Users\13545\Desktop\2_5_2\2_5_2\2_5_2\obj\x86\Debug\2_5_2.pdb
+C:\Users\13545\Desktop\2_5_2\2_5_2\2_5_2\bin\Debug\2_5_2.exe
+C:\Users\13545\Desktop\2_5_2\2_5_2\2_5_2\bin\Debug\2_5_2.pdb
+C:\Users\13545\Desktop\2_5_2\2_5_2\2_5_2\obj\x86\Debug\2_5_2.csprojResolveAssemblyReference.cache
